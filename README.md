@@ -20,4 +20,3 @@ This web app was built with:
 
 ##### Note: For the app to work properly please allow it to access your location when prompted to.<br/>
 Click <a href="https://adtx.github.io/travel_advisor_reactjs/" target="_blank">here</a> to try out the app for yourself.
-
